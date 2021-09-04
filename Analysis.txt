@@ -6,7 +6,7 @@ Things I noticed
 	It would be interesting to see the change from a pre-covid period and compare it to public transit usage data
 
 - There were many more 'casual' users than 'member' users
-	This would mean thta most people don't rely on Citi Bikes as a means of transpoprtation but use it more out of convinience
+	This would mean thta most people don't rely on Citi Bikes as a means of transpoprtation but use it more out of convenience
 	I would like to do more analysis on percentage of rides from member/casual as what I went over was ride times
 	It would also be interesting to see how many times people use their service before changing to becoming a member
 
